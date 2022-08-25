@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<p align="center">
+   <kbd>
+  <a href="https://twitter.com/Jordan_Monte51"><img src="https://img.shields.io/badge/-@Jordan_Monte51-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+  <a href="https://github.com/JordMonte512"><img src="https://img.shields.io/badge/-JordMonte512-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+  <a href="https://www.reddit.com/user/JordMonte12"><img src="https://img.shields.io/badge/-JordMonte512-ff4500?style=flat&logo=reddit&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jordanmonte"><img src="https://img.shields.io/badge/-Jordan_Monte-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  </kbd>
+</p>
+
 Experienced in Web Development, currently an IT Support Engineer, knowledgable in the fastener industry, all round geek.
 
 - 🔭 I’m currently working on ... Windows 10 Deployment scripts for quick and easy deployment at the MSP I currently work at.
@@ -10,3 +19,10 @@ Experienced in Web Development, currently an IT Support Engineer, knowledgable i
 - 📫 How to reach me: ... check out jordanmonte.me to find out!
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Don't eat yellow snow
+
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordmonte512&show_icons=true&theme=dark)
+</p>
