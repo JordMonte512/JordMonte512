@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"> Welcome to my (badly maintained) GitHub profile! 👋 </h1>
 
 <p align="center">
    <kbd>
