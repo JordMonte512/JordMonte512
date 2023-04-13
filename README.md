@@ -20,9 +20,4 @@ Experienced in Web Development, currently an IT Support Engineer, knowledgable i
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Don't eat yellow snow
 
-
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordmonte512&show_icons=true&theme=dark)
 </p>
